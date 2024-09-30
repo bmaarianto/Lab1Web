@@ -2,22 +2,27 @@
 ## Belajar Tag Dasar HTML
 
 ### Membuat paragraf
+untuk membuat paragraf kita bisa menggunakan tag `<p>`
 ini adalah tampilannya:
 ![GAMBAR 1](screenshot/ss1.png)
 
 ### Membuat judul
+untuk judul kita bisa memakai tag `<h>`
 ini adalah tampilannya:
 ![GAMBAR 2](screenshot/ss2.png)
 
 ### Memformat teks
+untuk memformat teks seperti di gambar kita bisa memakai `<b>` untuk mempertebal, `<i>` untuk memiringkan, `<mark>` untuk memberikan tanda
 ini adalah tampilannya:
 ![GAMBAR 3](screenshot/ss3.png)
 
 ### Menyisipkan gambar
+untuk menambahkan gambar kita bisa memakai tag `<img>`
 ini adalah tampilannya:
 ![GAMBAR 4](screenshot/ss4.png)
 
 ### Menambahkan hyperlink
+dan untuk menambahkan link kita bisa menggunakan tag `<a>`
 ini adalah gambarnya:
 ![GAMBAR 5](screenshot/ss5.png)
 
